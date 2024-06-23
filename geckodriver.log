@@ -17434,3 +17434,83 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/VKtwqYIMw_jEtcsYEdk
 1718274266970	Marionette	INFO	Stopped listening on port 13609
 Dynamically enable window occlusion 1
 JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1719139066906	geckodriver	INFO	Listening on 127.0.0.1:1057
+1719139069967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileTTUWBm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719139070168	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719139070214	Marionette	INFO	Listening on port 1067
+WebDriver BiDi listening on ws://127.0.0.1:1058
+Read port: 1067
+1719139070326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1058/devtools/browser/ac631c84-c0a5-47b4-8de9-86e15974366e
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ttep1hf2xTKPY5HV4abLvqDFRXZuZQmhABAIUKmOBs4.js line 2 > eval line 211 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719139100181	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1719139336607	Marionette	INFO	Stopped listening on port 1067
+Dynamically enable window occlusion 1
+1719139365118	geckodriver	INFO	Listening on 127.0.0.1:1358
+1719139368195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileJiz5lN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719139368403	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719139368447	Marionette	INFO	Listening on port 1368
+WebDriver BiDi listening on ws://127.0.0.1:1359
+Read port: 1368
+1719139368558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1359/devtools/browser/e4ae36f8-9b11-41d2-a6f4-d6c1439a6e79
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ttep1hf2xTKPY5HV4abLvqDFRXZuZQmhABAIUKmOBs4.js line 2 > eval line 7042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719139398423	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript warning: https://www.googletagmanager.com/gtag/j1719139658471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "1615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileeyYZOh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1719139658682	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719139658726	Marionette	INFO	Listening on port 1623
+WebDriver BiDi listening on ws://127.0.0.1:1615
+Read port: 1623
+1719139658841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:1615/devtools/browser/1edff871-c381-419a-887e-69bf475d89c9
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ttep1hf2xTKPY5HV4abLvqDFRXZuZQmhABAIUKmOBs4.js line 2 > eval line 2257 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719139688693	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-TKRYEG0LTD, line 606: Script terminated by timeout at:
+ca.rh@https://www.googletagmanager.com/gtag/js?id=G-TKRYEG0LTD:606:30
+get@https://www.googletagmanager.com/gtag/js?id=G-TKRYEG0LTD:604:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-TKRYEG0LTD:604:87
+ca.Ik/c/<@https://www.googletagmanager.com/gtag/js?id=G-TKRYEG0LTD:604:412
+
+1719140371478	Marionette	INFO	Stopped listening on port 1623
+Dynamically enable window occlusion 1
+vironment
+1719140236944	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1719140236988	Marionette	INFO	Listening on port 3324
+WebDriver BiDi listening on ws://127.0.0.1:3316
+Read port: 3324
+1719140237099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:3316/devtools/browser/6880d85b-f7e3-423b-b7f7-7655ceed0023
+console.error: ({})
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sattacademy.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/ttep1hf2xTKPY5HV4abLvqDFRXZuZQmhABAIUKmOBs4.js line 2 > eval line 5722 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1719140266955	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1719140373223	Marionette	INFO	Stopped listening on port 3324
+Dynamically enable window occlusion 1
